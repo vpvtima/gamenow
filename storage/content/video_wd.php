@@ -1,0 +1,14 @@
+<div class="row">
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/A7FAh2dGHHk?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/A7FAh2dGHHk/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/n0Fqpdu2ANk?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/n0Fqpdu2ANk/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/BaWjM6ZuX7g?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/BaWjM6ZuX7g/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/iY5aFxz3rXk?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/iY5aFxz3rXk/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/mUPZPIE0mbA?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/mUPZPIE0mbA/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/zNBzIHYgCBo?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/zNBzIHYgCBo/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/dz7t5gmW2yQ?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/dz7t5gmW2yQ/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/wySfMUfLZCw?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/wySfMUfLZCw/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/5a7J75Wy0Sk?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/5a7J75Wy0Sk/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/l9RNfcaV1fo?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/l9RNfcaV1fo/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/jZ-q_zL6Tu8?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/jZ-q_zL6Tu8/mqdefault.webp" /></a></div>
+<div class="col-md-4"><a class="youtube" href="http://www.youtube.com/embed/hOvo-wEDl4U?rel=0&amp;wmode=transparent"><img class="img-thumbnail" src="http://i.ytimg.com/vi_webp/hOvo-wEDl4U/mqdefault.webp" /></a></div>
+</div>
